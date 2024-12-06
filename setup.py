@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dsfns',  # The name of your package
-    version='3.0',
+    version='3.1.1',
     author='Mafia',
     author_email='zeta9097@gmail.com',
     description='data Preprocessing fns',
