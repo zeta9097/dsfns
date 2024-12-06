@@ -4,4 +4,4 @@
 
 ## Installation
 ```bash
-pip install fns
+pip install zsfns
